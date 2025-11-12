@@ -19,9 +19,8 @@ Enhances the Stream API with more powerful aggregation patterns.
 ---
 
 ## 🧪 How to Run
-
 Use Java 23 with preview features enabled:
 
-KingPal55/KingPal55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+javac --enable-preview --release 23 Main.java
+java --enable-preview Main
